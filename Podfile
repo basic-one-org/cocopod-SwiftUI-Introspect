@@ -6,10 +6,7 @@ use_frameworks!
 ENV["COCOAPODS_DISABLE_STATS"] = "true"
 
 target "IntrospectExamples"
-pod "Reveal-SDK", "24", :configurations => ['Debug']
-pod "KingfisherWebP", "24", :configurations => ['Debug']
-pod "gRPC-Core", "24", :configurations => ['Debug']
-pod "SDWebImage", "24", :configurations => ['Debug']
-pod "FirebaseInstanceID", "24", :configurations => ['Debug']
-pod "TensorFlowLiteObjC", "24", :configurations => ['Debug']
+pod "Reveal-SDK", "1.1.1", :configurations => ['Debug']
+pod "KingfisherWebP", "1.1.1", :configurations => ['Debug']
+pod "gRPC-Core", "1.1.1", :configurations => ['Debug']
 
