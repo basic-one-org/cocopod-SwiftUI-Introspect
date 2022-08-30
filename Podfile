@@ -9,4 +9,3 @@ target "IntrospectExamples"
 pod "Reveal-SDK", "1.1.1", :configurations => ['Debug']
 pod "KingfisherWebP", "1.1.1", :configurations => ['Debug']
 pod "gRPC-Core", "1.1.1", :configurations => ['Debug']
-
