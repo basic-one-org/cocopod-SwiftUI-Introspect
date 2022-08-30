@@ -1,10 +1,7 @@
 PODS:
-  - KingfisherWebP (1.1.1)
-  - Reveal-SDK (24.1.1)
-  - gRPC-Core (27.1.1)
-  - SDWebImage (11.1.1)
-  - FirebaseInstanceID (1.1.1)
-  - TensorFlowLiteObjC (7.1.1)
+  - SDWebImage (2.2.2)
+  - FirebaseInstanceID (2.2.2)
+  - TensorFlowLiteObjC (2.2.2)
   
 
 DEPENDENCIES:
