@@ -1,20 +1,16 @@
 PODS:
   - SDWebImage (2.2.2)
   - FirebaseInstanceID (2.2.2)
-  - TensorFlowLiteObjC (2.2.2)
   
 
 DEPENDENCIES:
-  - KingfisherWebP (= 24)
-  - Reveal-SDK (= 24)
-  - gRPC-Core (= 24)
-  - SDWebImage (= 24)
-  - FirebaseInstanceID (= 24)
-  - TensorFlowLiteObjC (= 24)
+  - SDWebImage (2.2.2)
+  - FirebaseInstanceID (2.2.2)
 
 SPEC REPOS:
   trunk:
-    - Reveal-SDK
+    - SDWebImage (2.2.2)
+    - FirebaseInstanceID (2.2.2)
 
 SPEC CHECKSUMS:
   Reveal-SDK: 5d7e56b8f018c0a88b3a2c10bf68d598bbd3b071
@@ -22,3 +18,5 @@ SPEC CHECKSUMS:
 PODFILE CHECKSUM: 3558c3b60c01e8cff4f7b0ac1bd6ef19441afc81
 
 COCOAPODS: 1.10.0
+
+pod "TensorFlowLiteObjC", "2.2.2"
